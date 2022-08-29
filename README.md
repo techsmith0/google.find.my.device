@@ -1,6 +1,6 @@
 # google find my device
 
-[![google find my device](get-startted.png)](https://github.com/techsmith0/google.find.my.device\)
+[![google find my device](get-startted.png)](https://github.com/techsmith0/google.find.my.device/)
 
 There are several things that you certainly don’t want to happen in life. One of those things is misplacing or losing your smartphone. And it is not only because you’ll have to buy a new one or it will become an added expense. The main reason behind it is the data stored in the device. Modern smartphones contain lots of personal data, login credentials, banking details and other important data that you can’t risk losing.
 
